@@ -1,0 +1,28 @@
+{
+  "properties": [
+    {
+      "name": "svn.url",
+      "type": "java.lang.String",
+      "description": "Description for svn.url."
+    },
+    {
+      "name": "svn.username",
+      "type": "java.lang.String",
+      "description": "Description for svn.username."
+    },
+    {
+      "name": "svn.password",
+      "type": "java.lang.String",
+      "description": "Description for svn.password."
+    },
+    {
+      "name": "svn.start-revision-number",
+      "type": "java.lang.String",
+      "description": "Description for svn.start-revision-number."
+    },
+    {
+      "name": "svn.end-revision-number",
+      "type": "java.lang.String",
+      "description": "Description for svn.end-revision-number."
+    }
+  ] }
